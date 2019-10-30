@@ -1,0 +1,9 @@
+D:\projects\SiteChecker\SiteChecker\bin\Debug\SiteChecker.exe
+D:\projects\SiteChecker\SiteChecker\bin\Debug\SiteChecker.pdb
+D:\projects\SiteChecker\SiteChecker\obj\Debug\SiteChecker.csprojAssemblyReference.cache
+D:\projects\SiteChecker\SiteChecker\obj\Debug\SiteChecker.MainForm.resources
+D:\projects\SiteChecker\SiteChecker\obj\Debug\SiteChecker.Properties.Resources.resources
+D:\projects\SiteChecker\SiteChecker\obj\Debug\SiteChecker.csproj.GenerateResource.cache
+D:\projects\SiteChecker\SiteChecker\obj\Debug\SiteChecker.csproj.CoreCompileInputs.cache
+D:\projects\SiteChecker\SiteChecker\obj\Debug\SiteChecker.exe
+D:\projects\SiteChecker\SiteChecker\obj\Debug\SiteChecker.pdb
